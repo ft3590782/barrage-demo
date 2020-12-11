@@ -4,7 +4,7 @@
 
 
 ## 效果
-![image](http://github.com/ft3590782/barrage-demo/demo.gif)
+![image](http://github.com/ft3590782/barrage-demo/blob/master/demo.gif?raw=true)
 
 ### Project setup
 ```
