@@ -2,6 +2,7 @@
 
 > 基于张鑫旭的[使用canvas实现和HTML5 video交互的弹幕效果](http://www.zhangxinxu.com/wordpress/?p=6386)源码改造
 
+
 ## 效果
 ![image](http://github.com/ft3590782/barrage-demo/demo.gif)
 
